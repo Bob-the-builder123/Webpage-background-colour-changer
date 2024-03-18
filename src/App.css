@@ -1,0 +1,18 @@
+.container {
+  text-align:center;
+  padding: 50px;
+}
+
+.buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: laser;
+}
+
+.buttons button:hover {
+  background-color: #45a049;
+}
